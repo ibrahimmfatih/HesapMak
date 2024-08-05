@@ -1,0 +1,6 @@
+projectKey=HesapMakinesi
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=HesapMakinesi
+ceTaskId=b5a6cc4a-8e81-483d-b810-f95c9787e687
+ceTaskUrl=http://localhost:9000/api/ce/task?id=b5a6cc4a-8e81-483d-b810-f95c9787e687

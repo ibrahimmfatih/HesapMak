@@ -1,0 +1,2 @@
+﻿C:\Users\İbrahim\Desktop\Ali Taşdelen\hesapmakinesi\Program.cs
+C:\Users\İbrahim\Desktop\Ali Taşdelen\hesapmakinesi\sonar-project.properties
